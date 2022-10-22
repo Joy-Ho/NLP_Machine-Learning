@@ -1,0 +1,7 @@
+supervised learning
+優點: 可以評斷機器學習的學習結果因為有正確的答案、可以得知有幾種label
+缺點: 需要人力成本去label
+
+unsupervised learning
+優點: 不需要label
+缺點: 預測的結果無法準確的評估
